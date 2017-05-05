@@ -1,15 +1,14 @@
-title: Piráti Tábor
+title: Pirátske Piskoviste
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/piratitabor
 logo: /static/logo.png
 gems:
   - jekyll-sitemap
   - i18n
 paginate: 7
 paginate_path: "/clanky/:num/"
-keywords: tábor,piráti
+keywords: tábor,pokus,web,admin
 url: https://tabor.pirati.cz
 
 # see. best practices DOs and DONTs for details about following section
