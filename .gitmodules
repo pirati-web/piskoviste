@@ -15,4 +15,4 @@
 	url = https://github.com/pirati-web/people.git
 [submodule "admin"]
 	path = admin
-	url = git@github.com:pirati-web/admin
+	url = https://github.com/pirati-web/admin.git
