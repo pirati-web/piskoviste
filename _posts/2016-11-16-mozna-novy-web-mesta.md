@@ -2,7 +2,7 @@
 autor: Václav Klecanda
 layout: blog
 category: CLANKY
-title: Web města aneb špatný vtip
+title: Web města aneb špatný vTTIP
 date: 2017-05-07T05:13:17.016Z
 author: pokusny kralicek
 image: /static/media/web.jpg
@@ -99,5 +99,6 @@ který doporučí jiné, __hlavně otevřené řešení__ a zajistí jeho:
 
 Budování přehledného webu, který prezentuje takové množství, jako táborský, není jednoduché.
 Proto je potřeba mu věnovat náležitou péči, definovat zodpovědnosti, použít správný software, ale hlavně neusnout a neustále sledovat trendy a nejlepší postupy.
+
 
 
